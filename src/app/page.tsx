@@ -24,6 +24,12 @@ export default function Home() {
             <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
                 <div className="flex gap-2">
                     <a
+                        href="https://apps.apple.com/gb/app/my-pocket-garage/id6447470205"
+                        target="_blank"
+                    >
+                        Pocket Garage
+                    </a>
+                    <a
                         href="https://www.linkedin.com/in/ruaridh-bell/"
                         target="_blank"
                     >
