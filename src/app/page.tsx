@@ -22,7 +22,7 @@ export default function Home() {
                 />
             </ShaderGradientCanvas>
             <div className="fixed top-0 left-0 p-4 flex items-end w-full flex-col gap-2">
-                <div className="flex gap-2">
+                <div className="flex justify-end gap-2 flex-wrap">
                     <a
                         href="https://apps.apple.com/gb/app/my-pocket-garage/id6447470205"
                         target="_blank"
@@ -42,22 +42,19 @@ export default function Home() {
                         X
                     </a>
                 </div>
-
-                <a
-                    className="bg-slate-100 bg-opacity-20 px-2 py-1 rounded-xl"
-                    href="mailto:ruaridhbell73@googlemail.com"
-                    target="_blank"
-                >
-                    Email (business enquiries only)
-                </a>
             </div>
 
-            <div className="fixed bottom-0 left-0 p-4 flex justify-between w-full">
+            <div className="fixed bottom-0 left-0 p-4 flex justify-between items-end w-full">
                 <h1>Ruaridh Bell</h1>
 
-                <div className="flex gap-2">
-                    <h2>Software Engineer</h2>
-                    <h2>Edinburgh</h2>
+                <div className="flex flex-col items-end gap-2">
+                    <a href="mailto:collab@jacobbinnie.com">
+                        ruaridhbell73@googlemail.com
+                    </a>
+                    <div className="flex gap-2">
+                        <h2>Software Engineer</h2>
+                        <h2>Edinburgh</h2>
+                    </div>
                 </div>
             </div>
         </div>
