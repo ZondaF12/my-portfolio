@@ -35,6 +35,12 @@ export default function Home() {
                     >
                         Linkedin
                     </a>
+                    <a
+                        href="https://strava.app.link/Gzlrh8LmhPb"
+                        target="_blank"
+                    >
+                        Strava
+                    </a>
                     <a href="https://github.com/zondaf12" target="_blank">
                         Github
                     </a>
