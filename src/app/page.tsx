@@ -54,7 +54,7 @@ export default function Home() {
                 <h1>Ruaridh Bell</h1>
 
                 <div className="flex flex-col items-end gap-2">
-                    <a href="mailto:collab@jacobbinnie.com">
+                    <a href="mailto:ruaridhbell73@googlemail.com">
                         ruaridhbell73@googlemail.com
                     </a>
                     <div className="flex gap-2">
