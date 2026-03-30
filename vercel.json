@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/shopify",
+            "destination": "https://shopify-monitor-fh5kw9y6j-zondaf12s-projects.vercel.app/watches"
+        }
+    ]
+}
